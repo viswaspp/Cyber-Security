@@ -1,0 +1,5 @@
+{
+    "web_port": 8080,
+    "ssh_port": 2222,
+    "honeypot_name": "Advanced Cyber Suite"
+}
